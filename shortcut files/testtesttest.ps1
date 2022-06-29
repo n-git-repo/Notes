@@ -1,0 +1,2 @@
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+$result = Invoke-WebRequest -Uri ("https://apiintegrations.subitup.com/api/common/GetAllCountries") -Method Get -UseBasicParsing;

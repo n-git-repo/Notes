@@ -1,0 +1,1 @@
+Invoke-WebRequest -Uri 'https://devapiintegrations.subitup.com/api/Guesty/testAPI' 

@@ -1,0 +1,96 @@
+devaccount.subitup.com					azure.dev.subitup.com [52.165.219.84]
+devdashboard.subitup.com				azure.dev.subitup.com [52.165.219.84]
+devforms.subitup.com					azure.dev.subitup.com [52.165.219.84]
+devgetstarted.subitup.com				azure.dev.subitup.com [52.165.219.84]
+devmessages.subitup.com					azure.dev.subitup.com [52.165.219.84]
+devmobile.subitup.com					azure.dev.subitup.com [52.165.219.84]
+devonboard.subitup.com					azure.dev.subitup.com [52.165.219.84]
+devtimeclock.subitup.com				azure.dev.subitup.com [52.165.219.84]
+devweb.subitup.com						azure.dev.subitup.com [52.165.219.84]
+
+
+devapiintegrations.subitup.com			d.sni.global.fastly.net [151.101.158.133]
+devimages.subitup.com					d.sni.global.fastly.net [151.101.158.133]
+
+
+
+
+
+
+dev sas from ssms
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+
+devonboard
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+---------------------------------------------------------------------------------------------------------------------
+
+devOnboarding
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+devReports
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+-----------------------------------------------------------------------------------------------------------------
+
+devsubitup
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+devsubituparchive
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+devsuituphellocert
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+devsupoort
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+devweb
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+devreports
+sv=2018-03-28&sr=c&sig=%2BynTVQkciExF3OLRyU6jw4SM3%2BGNVDAm%2FGypYKejYRg%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+----------------------------------------------------------------------------------------------------------------------
+
+hellocert
+sv=2018-03-28&sr=c&sig=Rj5mXeap2So4VegSwUwkBPlU5YcSZdmudVU%2FW1a%2FbQQ%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+onboarding
+sv=2018-03-28&sr=c&sig=Rj5mXeap2So4VegSwUwkBPlU5YcSZdmudVU%2FW1a%2FbQQ%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+Reports
+sv=2018-03-28&sr=c&sig=Rj5mXeap2So4VegSwUwkBPlU5YcSZdmudVU%2FW1a%2FbQQ%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+
+sqlevents_capture
+sv=2018-03-28&sr=c&sig=Rj5mXeap2So4VegSwUwkBPlU5YcSZdmudVU%2FW1a%2FbQQ%3D&se=2022-08-03T18%3A30%3A00Z&sp=rwdl
+-----------------------------------------------------------------------------------------------------------------
+
+
+DB-Hellocert:
+https://subitupDevOps@dev.azure.com/subitupDevOps/SubItUp-Agile/_git/DB-Hellocert
+
+DB-Onboarding
+https://subitupDevOps@dev.azure.com/subitupDevOps/SubItUp-Agile/_git/DB-onboarding
+
+DB-Reports
+https://subitupDevOps@dev.azure.com/subitupDevOps/SubItUp-Agile/_git/DB-Reports
+
+DB-SQLEvents_Capture
+https://subitupDevOps@dev.azure.com/subitupDevOps/SubItUp-Agile/_git/DB-SQLEvents_Capture
+
+DB-subitup
+https://subitupDevOps@dev.azure.com/subitupDevOps/SubItUp-Agile/_git/DB-subitup
+
+DB-subitupArchive
+https://subitupDevOps@dev.azure.com/subitupDevOps/SubItUp-Agile/_git/DB-subitupArchive
+
+DB-Support
+https://subitupDevOps@dev.azure.com/subitupDevOps/SubItUp-Agile/_git/DB-Support
+
+DB-Web
+https://subitupDevOps@dev.azure.com/subitupDevOps/SubItUp-Agile/_git/DB-Web
+
+DB-WorkStudy
+https://subitupDevOps@dev.azure.com/subitupDevOps/SubItUp-Agile/_git/DB-WorkStudy

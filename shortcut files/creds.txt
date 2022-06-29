@@ -1,0 +1,81 @@
+Dev Machine
+Host: 72.3.208.112
+user name : subitup.admin
+skalakuntlaRDP
+329sdpaj23df(*Y@djklafnvnalkdfu3
+
+
+DB server:
+72.32.17.190
+GGK_DBA
+dfkl30df;amvd023
+
+Prod WEB6 server
+Host: web6.subitup.com
+kalyani
+GGK12345!
+
+Subitup Azure Access:
+username: kgandham@subitup.com
+pwd: Hyderabad@007!!
+
+
+username: Spandanaboina@subitup.com
+pwd: Sripandanam@123
+
+username: spandanaboina@subitup.com
+pwd: HyDerabaD#00s
+
+Git Bonobo:
+username: srikanthp
+pwd: 299djaof93fja
+
+Zoho:
+username: Spandanaboina@subitup.com
+pwd: Sripandanaz@123
+
+shravan.samboju@ggktech.com
+Shravan@987
+
+devSupportCL - 2012 (110) - 2019 (150)
+devsubituphellocertCL - 2012 (110) - 2019 (150)
+
+sv=2018-03-28&sr=c&sig=FdtZh89jwS7tu6LkH4tu81WQouIhSjnGCtyvgShmU%2B8%3D&se=2021-03-13T00%3A00%3A00Z&sp=rwdl -Shared Access Signature devSupport
+sv=2018-03-28&sr=c&sig=FdtZh89jwS7tu6LkH4tu81WQouIhSjnGCtyvgShmU%2B8%3D&se=2021-03-13T00%3A00%3A00Z&sp=rwdl -Shared Access Signature devsubituphellocert
+sv=2018-03-28&sr=c&sig=FdtZh89jwS7tu6LkH4tu81WQouIhSjnGCtyvgShmU%2B8%3D&se=2021-03-13T00%3A00%3A00Z&sp=rwdl -Shared Access Signature devSubitup
+sv=2018-03-28&sr=c&sig=FdtZh89jwS7tu6LkH4tu81WQouIhSjnGCtyvgShmU%2B8%3D&se=2021-03-13T00%3A00%3A00Z&sp=rwdl -Reports
+sv=2018-03-28&sr=c&sig=FdtZh89jwS7tu6LkH4tu81WQouIhSjnGCtyvgShmU%2B8%3D&se=2021-03-13T00%3A00%3A00Z&sp=rwdl -WorkStudy
+
+23df(*Y@djklafnvnalkdfu3 -prod_web1 Subitup Admin
+sdpaj23df(*Y@djklaf -prod_web1 GGK Admin
+
+13.107.6.0/24,13.107.9.0/24,13.107.42.0/24,13.107.43.0/24
+2620:1ec:4::/48,2620:1ec:a92::/48,2620:1ec:21::/48,2620:1ec:22::/48
+
+UserName: bcote
+Pwd: Y@djklafnvn
+DB PWD: j3lsk-@dj9jdslskq9oosr
+
+UserName: jdrouin
+Pwd: j23df(*Y@d
+
+Digicert:
+7mi@Q!N#tkp9@#@
+
+bb2c9b2e-ba37-4125-b2a8-3ab4ea01990f
+Q05y[1lZm_o@/q9oosrTC.OOyt61zn5p
+ldkdfja0-93j3lsk-9jdslskzrf -sa password
+
+
+username :subitup_dba
+Password :3-9jdsfaldkdfja0-93j3lsksdaf
+
+username: subitupsupport_dba 
+Password :dfldkf03Duejd&87!@
+
+username: hellocert_dba
+Password: #2019dfjalRSKZ093jdlfavnblsdke8qp320osdlse93sh
+
+
+ftp
+23df(*Y@djklafnvnalkdfu3

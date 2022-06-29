@@ -1,0 +1,120 @@
+jit for vms 
+explanation on JIT necessasity
+https://docs.microsoft.com/en-us/azure/security-center/just-in-time-explained
+
+Microsoft Endpoint pprotetion
+https://azure.microsoft.com/en-in/support/legal/endpoint-protection/
+
+https://apiintegrations.subitup.com/api/PeopleSoftExport/CreatePeopleSoftReportForUOM?token=y07Wn15AvDrCz0+Dq3FojQ==
+
+
+Update
+| where Computer contains "prodweb3" or ResourceId contains "prodweb3"
+| where Classification =~ "Critical Updates" or Classification =~ "Security Updates"
+| summarize arg_max(TimeGenerated, *) by Title, Computer
+| where UpdateState =~ "Needed"
+| summarize count() by Title
+
+---------------------------------------------------------------------------------
+
+
+0 13 1-7,15-22,30-31 * 1
+
+
+
+--------------------------------------------------------------------------------
+Run tasks on Azure Virtual Machines using the Custom Script Extension
+
+------------------------------------------------------------------------------
+sv=2018-03-28&sr=c&sig=xxn6E2TN3nQCX5elozmz7C4L%2BR8TQPhe5n8t4anFGsU%3D&se=2022-08-02T18%3A30%3A00Z&sp=rwdl
+
+
+
+
+-------------------------------------------------------
+20.25 assigned tasks
+2.75 azure support, errors and monitoring release
+Tos23371
+inDia007@!
+hyDerAbad@007
+Virtual machines without an enabled disk encryption will be monitored by Azure Security Center as recommendations.
+------------------------------------------------------------------------------------------------------------
+task 1460
+issue 1458
+soc compliance 1464
+bug 1465
+1758.32
+1762.80
+Data of type AzureDiagnostics is being dropped due to incorrect format at lineOffset: -1. Exception message: After parsing a value an unexpected character was encountered: \. Path 'records[1067].properties.requestUri', line 1, position 1446307. (1)
+
+---------------------------------------------------------------------------------------------------------------------
+IIS services
+IIS manager 
+Azure DevOps pipeline
+Azure FrontDoor
+Azure Automation
+SQL managed Instance
+DNS types and DNS Hosting
+Task Sheduler 
+Deployment Groups in Azure DevOps
+Recovery Service Vault
+Key Vaults 
+Azure Monitoring 
+
+adobe.com/software/flash/about
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+\\public\projects\DevOps\SWAT 2.0\SARAS\android-sdk\android-sdk\extras\android\m2repository\com\android\support\preference-v7
+
+
+
+
+
+
+
+
+\\public\projects\DevOps\SWAT 2.0\SARAS\android-sdk\android-sdk\platforms\android-25\data\res\raw-de-xlarge
+
+
+
+
+\\public\projects\DevOps\Projects\Creehan\Skeleton.Service\tests
+
+
+
+\\public\projects\DevOps\Projects\CRUX POC\Code\New folder\crux-1\.jenkins\New folder\plugins
+
+ GU8LW-ADETG-X9HBZ-QB2JB-EN648
+
+
+\\public\projects\DevOps\Projects\CRUX POC\Code\New folder\latest binaries
+
+
+
+
+
+
+
+value         id                                                                                         attributes
+-----         --                                                                                         ----------
+nikitha@12345 https://my-keyvault27.vault.azure.net/secrets/test-secret/5430bf4c81d2417ea3dd858d4a0a597b @{enabled=T...
+
+hcmpz7nldmmx25aizdpbmjeozminnkhoe2eroolpbceaivtpzkuq
+
+
+
+
+dx2w7h2m6j2gvv3v3ypovgsyckhnfy5dk27z2eqpucj35oufnq2q
+
+
+
+
+vascywsef2uannkipsvptqkovthyyskszc75e2vy6ozzlrgwa63a
+
+nikithaP@0000
+
+
+Chinni@05
+-------------------------------------------------------------------------

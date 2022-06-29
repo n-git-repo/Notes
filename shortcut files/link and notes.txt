@@ -1,0 +1,135 @@
+
+->aws vpn 
+https://www.youtube.com/watch?v=d1tEjXYbFyw&feature=youtu.be&list=PLie35GAskAJkXSTLxP3ERZ9BcorNkjaF-
+->nacl 
+linux essensitals linux academy (utube )
+
+
+
+
+
+-> multibranch building in docker
+https://youtu.be/KLOdisHW8rQ
+
+
+-> OSI model:
+https://youtu.be/vv4y_uOneC0
+
+
+-> azure : nextsops channel
+
+-> owasp rules
+https://docs.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules?tabs=owasp31
+
+-> terrform handiling multiple environments
+https://youtu.be/3Yr-lHhBQm4
+
+
+
+
+multi cloud strategy 
+https://avinetworks.com/glossary/multi-cloud/#:~:text=A%20multi%2Dcloud%20strategy%20allows,have%20integrated%20machine%20learning%20capabilities.
+
+
+
+https://acsicorp.sharepoint.com/sites/CoP/DevOp
+
+what is ssl
+https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/
+
+to install openssl
+https://youtu.be/jSkQ27sTto0
+
+
+tutorial for usng managed identity 
+https://docs.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/tutorial-windows-vm-access-nonaad#:~:text=Managed%20Service%20Identities%20are%20automatically,stored%20in%20a%20Key%20Vault
+
+
+delete old logs in iis
+https://docs.microsoft.com/en-us/iis/manage/provisioning-and-managing-iis/managing-iis-log-file-storage#delete-old-log-files-by-script
+
+
+-------------------------------------------------------------------------------------------------------
+
+spandanaboina@subitup.com
+HyDerabaD#00s
+
+nikitha.panthangi@subitup.com 
+hyDerAbad@007
+
+--------------------------------------------------------------------------------------------------------
+MongoDB: subitup creds.
+https://cloud.mongodb.com/v2#/org/5a663638df9db162fa068ea8/projects
+ 
+fastly: 
+https://manage.fastly.com/services/all
+
+nikitha.panthangi@subitup.com
+pJ9zgdK7UZLgvu5f
+pJ9zgdK7UZLgvu5f
+-------------------------------------------------------------------------------------------------------
+my azure account details:
+   
+Myteam@ggktech.net
+​.H&R*K9=)0
+--------------------------
+
+Myteam@ggktech.net
+Nikitha@27
+--------------------------------------------------------------------------------------------------------
+
+Powershell commands used to troubleshoot WinRM issue:
+
+WSMan:\localhost\Client\TrustedHosts
+Set-Item WSMan:\localhost\Client\TrustedHosts -Value *
+Register-PSSessionConfiguration -Name Microsoft.PowerShell 
+winrm quickconfig -transport:https
+
+https://stackoverflow.com/questions/8748173/powershell-remoting-win2008r2-the-wsman-service-could-not-launch-a-host-process
+
+---------------------------------------------------------------------------------------------------------
+azure automation graphical runbook 
+https://docs.microsoft.com/en-us/azure/automation/automation-graphical-authoring-intro 
+
+
+---------------------------------------------------------------------------------------------------------
+
+To convert .pfx file to .pem format to upload into fastly
+
+openssl pkcs12 -in file.pfx -out file.nokey.pem -nokeys
+ link: 
+https://stackoverflow.com/questions/15413646/converting-pfx-to-pem-using-openssl
+
+
+---------------------------------------------------------------------------------------------------------
+images.subitup.com link
+https://images.subitup.com/api/Profile/Images?emailId=yZARysNb2%2bEm1dVGXKUYRGby6f0O1UJ7OV1roF1tr1s%3d
+
+https://devimages.subitup.com/api/Profile/Images?emailId=yZARysNb2%2bEm1dVGXKUYRGby6f0O1UJ7OV1roF1tr1s%3d
+
+---------------------------------------------------------------------------------------------------------
+appcmd.exe command to change error pages in IIS 
+
+to lock error page settings after manual change in IIS .
+
+cd %windir%\system32\inetsrv 
+appcmd lock config "devdashboard.subitup.com" -section:system.webServer/httpErrors
+
+command :
+appcmd set config "devdashboard.subitup.com" -section:system.webServer/httpErrors /+"[statusCode='404',path='/',responseMode='File|ExecuteURL|Redirect']"
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+subitup sqlmi connection host name
+
+tcp:sqlmisubitup.public.e140c016f75f.database.windows.net,3342
+
+------------------------------------------------------------------------------------------------------------------------------------------
+https://acsicorp.sharepoint.com/:f:/r/sites/CoP/DevOps/Shared%20Documents/KMS%20Repository/Projects%20Dcoumentation/Subitup?csf=1&web=1&e=9dqyY9
+
+
+
+timezone changes in webjobs:
+https://stackoverflow.com/questions/37856122/microsoft-azure-webjob-in-which-timezone-a-webjob-runs-if-i-schedule-a-webjob-t 
+
+
+mouni@99 
